@@ -16,13 +16,21 @@
 }
 
 .banner img {
-    height: 90px;
-    width: 110px;
+    height: 130px;
+    width: 150px;
     padding: 10px;
+    /* border-radius: 100%; */
+}
+
+.bleft {
+    width: 400px;
+
 }
 
 .bright {
-    color: rgb(12, 240, 12);
+    width: 900px;
+    color: white;
+    background-color:  rgb(9, 205, 9);
 }
 
 
